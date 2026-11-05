@@ -1,0 +1,13 @@
+{
+  "name": "meu-projeto-node",
+  "version": "1.0.0",
+  "description": "App de teste para Docker Compose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.2"
+  }
+}
